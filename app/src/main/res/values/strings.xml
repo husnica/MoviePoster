@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MoviePoster</string>
+    <string name="add_to_watchlist">Add To Watchlist</string>
+    <string name="posters">Posters</string>
+
+    <string name="nav_main">Main Page</string>
+    <string name="nav_favorites">Favorite List</string>
+    <string name="nav_contact">Contact Us</string>
+    <string name="title_favorites">Favorite List</string>
+    <string name="title_contact">Contact Us</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+
+    <string name="about_us">About Us</string>
+    <string name="company_intro">MoviePoster is a small studio that builds simple, friendly apps for discovering films from around the world.</string>
+    <string name="get_in_touch">Get in touch</string>
+    <string name="contact_email">contact@movieposter.example</string>
+    <string name="contact_email_hint">Tap to open your email app</string>
+    <string name="no_email_app">No email app found</string>
+
+    <!-- Fourth page: Movie Still -->
+    <string name="nav_still">Movie Still</string>
+    <string name="title_still">Movie Still</string>
+    <string name="still_title">The Batman (2022)</string>
+    <string name="still_description">Batman and Catwoman meet on a Gotham rooftop at sunset. Director Matt Reeves used warm orange skies and deep shadows to give the city its moody, detective-noir look.</string>
+    <string name="still_photo_description">A still from The Batman</string>
+
+    <string name="button_show_intro">About Me</string>
+    <string name="my_intro">Hi, I\'m Amir, a computer science student who loves action movies like The Batman and Peaky Blinders, and I built this app to share some of my favorites.</string>
+
+</resources>
